@@ -11,7 +11,3 @@ https://dry-morning-e1a3.main-bela.workers.dev/?url=https://parshls.wns.live/hls
 http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="News", Radio Iran International
 https://dry-morning-e1a3.main-bela.workers.dev/?url=https://radio.iraninternational.app/iintl_c
-#EXTINF:0 type="stream" channelId="-1" group="Sport", Varzish Tajik
-https://dry-morning-e1a3.main-bela.workers.dev/?url=https://gg.hls2.xyz/live/IR%20-%20Varzish%20TV/playlist.m3u8
-
-
