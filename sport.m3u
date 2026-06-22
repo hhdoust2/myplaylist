@@ -35,3 +35,7 @@ http://104.238.205.28:8989/278768_.m3u8?checkedby:iptvcat.com
 https://lnc-fox-sports-espanol2.tubi.video/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports en Espanol (720p)
 https://livetv-fa.tubi.video/fox-sports-espanol2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",Fox Sports (720p)
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="Sport",Rai Sports (720p)
+https://srv1.adriatelekom.com/RaiSport/index.m3u8
