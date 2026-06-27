@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="280" group="Sports" logo="https://i.imgur.com/YOr1Oac.png", FTV (720p)
+https://master.tucableip.com/ftvhd/index.m3u8
+#EXTINF:0 type="stream" channelId="1578" group="Sports" logo="https://i.imgur.com/RJrJGbW.png", Arena Sport 1 (1080p)
+https://rapid-unit-main.belarevers.workers.dev/?url=https://nl1.nghk.ai/ArenaSport1BH/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/csv6YsL.png" catchup="default", Arena Sport 1 Premium (720p)
+https://nameless-hat-8f8d.revers-bela.workers.dev/proxy?url=https://nl1.nghk.ai/ArenaPremium1HD/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/ztOmQ7P.png", Arena Sport 2 Premium (1080p)
+https://nameless-hat-8f8d.revers-bela.workers.dev/proxy?url=https%3A%2F%2Fnl1.nghk.ai%2FArenaPremium2HD%2Findex.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Sports" logo="https://i.imgur.com/csv6YsL.png", Arena Sport 1 Premium (720p)
+https://nameless-hat-8f8d.revers-bela.workers.dev/proxy?url=https%3A%2F%2Fnl1.nghk.ai%2FArenaPremium1HD%2Findex.m3u8
